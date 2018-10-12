@@ -6,10 +6,11 @@ This way testers will report interesting issues, rather than things that should 
 
 For start: is it really useful and necessary to use slides? It is not something mandatory.
 
-## Slide layout
+## Applies to all slides
 
 - Text should be large. Very large.
 	- Default text size is generally too small, for example in Google Slides
+- Diagrams are readable and not overcomplicated
 - Images and other materials should be attributed
 	- attribution will typically include link, but it should be link to a page with an image, not a direct link to the image file
 	- try to find original source
@@ -21,12 +22,17 @@ For start: is it really useful and necessary to use slides? It is not something 
 	- animations are easily broken on converting to a different formats (pdf)
 	- animations make harder to go for example one slide back and later continue
 	- instead of appearing bullet points create multiple slides (one with just a title, second with first bullet point and title, third with title and both bullet points)
+	- logical order
 
 ## Mandatory slides
 
-- Summary
+- Some funny or at least interesting/impressive slides. Preferrably relevant.
+- Catch attention at the beginning before audience will start ignoring you
+- Outline/agenda at the beginning (I am still not sure is it really necessary and useful)
 - Link to your website
 - Link where slides of the presentations are available
+- Summary
+- Request questions
 
 # Content
 
@@ -36,3 +42,5 @@ For start: is it really useful and necessary to use slides? It is not something 
 
 - Test your opening
 	- maybe memorize it, word by a word
+- Time presentation, remember to leave time for questions
+- proper gesticulation
