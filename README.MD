@@ -74,6 +74,10 @@ Record yourself while testing presentation, and watch recording.
 
 # Technical
 
+- prepare offline backup version of presentation and keep it on USB drive
+	- keep also a pdf file version
+	- this is paranoid, but it already allowed me to avoid technical difficulties during one of presentations
+
 # During presentation
 
 Record your presentation.
