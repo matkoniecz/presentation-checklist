@@ -30,9 +30,23 @@ Delivering a speech is what is supposed to happen. Slides are likely to be an us
 		- what is the generally applicable limit? 20 seconds? 30? 60?
 - remove unnecessary slides, text, images, animations
 	- remove also all where one is unsure
+- for slides with code, math equations or equivalent
+	- is it really, really, really necessary?
+		- try replacing it with examples, text, diagrams etc
+		- try shortening it, dropping unnecessary parts etc.
+	- is it text or an image?
+		- image of text is wrong and evil
+- use monospaced font for code
+- use syntax higligting for a code
+- for all content, especially text and diagrams
+	- is it well contrasting?
+
 
 ## Mandatory slides
 
+- Title slite
+	- with, well the title
+	- public contact info (email)
 - Some funny or at least interesting/impressive slides. Preferrably relevant.
 - Catch attention at the beginning before audience will start ignoring you
 - Outline/agenda at the beginning (I am still not sure is it really necessary and useful)
@@ -88,4 +102,5 @@ Record your presentation.
 - my own experience
 - [http://matt.might.net/articles/academic-presentation-tips](http://matt.might.net/articles/academic-presentation-tips) - I recommend reading it to everybody and I recommend rereading it to myself
 	- final link in that presentation is now rotten. It should point to [https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/) (I reported this issue with a solution to the author but this blog appears to be dead)
+- [https://github.com/MoscowJS/speaker#checklist-for-slides](https://github.com/MoscowJS/speaker#checklist-for-slides)
 - [https://www.uts.edu.au/sites/default/files/presentation_checklist_0.pdf](https://www.uts.edu.au/sites/default/files/presentation_checklist_0.pdf)
