@@ -70,7 +70,13 @@ Delivering a speech is what is supposed to happen. Slides are likely to be an us
 >  Consider recording later practice talks, and listen to them for awkward transitions, slides that run too long or inadequate explanations.
 > -- http://matt.might.net/articles/academic-presentation-tips/
 
-# Technical 
+Record yourself while testing presentation, and watch recording.
+
+# Technical
+
+# During presentation
+
+Record your presentation.
 
 # Inspiration sources for this document
 
