@@ -65,6 +65,7 @@ Delivering a speech is what is supposed to happen. Slides are likely to be an us
 - Reminder: listeners may know less that presenter
 	- try to make presentations that allows people to learn something new rather that make clear that they lack knowledge
 		- it applies especially to teachers
+- mention benefits as soon as possible
 
 # Presentation
 
@@ -94,7 +95,8 @@ Record yourself while testing presentation, and watch recording.
 
 # During presentation
 
-Record your presentation.
+- test equipment, starting from access to projector
+- record your presentation.
 
 # Inspiration sources for this document
 
@@ -102,5 +104,9 @@ Record your presentation.
 - my own experience
 - [http://matt.might.net/articles/academic-presentation-tips](http://matt.might.net/articles/academic-presentation-tips) - I recommend reading it to everybody and I recommend rereading it to myself
 	- final link in that presentation is now rotten. It should point to [https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/) (I reported this issue with a solution to the author but this blog appears to be dead)
+
+Sources below were useful but are not great and worth rereading.
+
 - [https://github.com/MoscowJS/speaker#checklist-for-slides](https://github.com/MoscowJS/speaker#checklist-for-slides)
+- [https://checklist.com/presentation-checklist/](https://checklist.com/presentation-checklist/)
 - [https://www.uts.edu.au/sites/default/files/presentation_checklist_0.pdf](https://www.uts.edu.au/sites/default/files/presentation_checklist_0.pdf)
