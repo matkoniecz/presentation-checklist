@@ -33,6 +33,9 @@ Delivering a speech is what is supposed to happen. Slides are likely to be an us
 		- what is the generally applicable limit? 20 seconds? 30? 60?
 - remove unnecessary slides, text, images, animations
 	- remove also all where one is unsure
+- violating DRY is better than keeping animations
+	- duplicating slide and remove something from one is better than animations
+		- easy export to pdf or other format, no problems with going back and forward...
 - for slides with code, math equations or equivalent
 	- is it really, really, really necessary?
 		- try replacing it with examples, text, diagrams etc
@@ -57,6 +60,7 @@ Delivering a speech is what is supposed to happen. Slides are likely to be an us
 - Link where slides of the presentations are available
 - Summary
 - Request questions
+	- Request questions after official Q&A, request questions via email
 
 # Content
 
