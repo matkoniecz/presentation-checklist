@@ -60,7 +60,8 @@ Delivering a speech is what is supposed to happen. Slides are likely to be an us
 
 - What is the goal of presentation?
 	- what is the main idea?
-	- is listener able to summarize presentation in one sentece or two?
+	- is listener able to summarize presentation in one sentece?
+		- no longer than 15 words
 	- is listener able to recognize the main idea?
 	- is listener able to remember main idea?
 - Reminder: listeners may know less that presenter
