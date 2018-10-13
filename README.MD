@@ -75,6 +75,7 @@ Delivering a speech is what is supposed to happen. Slides are likely to be an us
 	- maybe memorize it, word by a word
 - Time presentation, remember to leave time for questions
 - proper gesticulation
+	- if you really have no idea what to do with hands at start of presentation then [imitate Merkel](https://en.wikipedia.org/wiki/Merkel-Raute)
 
 # Testing presentation
 
@@ -94,9 +95,12 @@ Record yourself while testing presentation, and watch recording.
 - prepare offline backup version of presentation and keep it on USB drive
 	- keep also a pdf file version
 	- this is paranoid, but it already allowed me to avoid technical difficulties during one of presentations
+- host copy of presentation at easy to remmeber location
+	- it can be easily redownloaded in case of switching computers
 
 # During presentation
 
+- be extremely early
 - test equipment, starting from access to projector
 - record your presentation.
 
