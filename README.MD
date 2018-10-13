@@ -22,7 +22,7 @@ Delivering a speech is what is supposed to happen. Slides are likely to be an us
 	- except as an example of a bad slide or where text is used as decoration and is not intended to be readable
 	- what is a wall of text? More than six lines? More than 10 lines?
 		- making presentation is not wririting a book
-- try to avoid animations, trasnitions etc
+- try to avoid animations, transitions etc
 	- animations are easily broken on converting to a different formats (pdf)
 	- animations make harder to go for example one slide back and later continue
 	- instead of appearing bullet points create multiple slides (one with just a title, second with first bullet point and title, third with title and both bullet points)
