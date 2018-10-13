@@ -6,6 +6,8 @@ This way testers will report interesting issues, rather than things that should 
 
 For start: is it really useful and necessary to use slides? It is not something mandatory.
 
+Even in case of making slides - consider starting from design on paper.
+
 Delivering a speech is what is supposed to happen. Slides are likely to be an useful tool but too often speech degenerates into presenting slides.
 
 ## Applies to all slides
@@ -107,12 +109,14 @@ Record yourself while testing presentation, and watch recording.
 # Inspiration sources for this document
 
 - feedback from many wonderful people (I have not asked them whatver they want to be listed in a random git repository, so I will keep it unspecific - but thanks to all of them!)
-- my own experience
 - [http://matt.might.net/articles/academic-presentation-tips](http://matt.might.net/articles/academic-presentation-tips) - I recommend reading it to everybody and I recommend rereading it to myself
 	- final link in that presentation is now rotten. It should point to [https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/) (I reported this issue with a solution to the author but this blog appears to be dead)
+- http://www.garrreynolds.com/preso-tips/prepare/
 
 Sources below were useful but are not great and worth rereading.
 
 - [https://github.com/MoscowJS/speaker#checklist-for-slides](https://github.com/MoscowJS/speaker#checklist-for-slides)
 - [https://checklist.com/presentation-checklist/](https://checklist.com/presentation-checklist/)
 - [https://www.uts.edu.au/sites/default/files/presentation_checklist_0.pdf](https://www.uts.edu.au/sites/default/files/presentation_checklist_0.pdf)
+
+Also based on my own experience.
