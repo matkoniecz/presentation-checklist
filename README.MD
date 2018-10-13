@@ -118,5 +118,6 @@ Sources below were useful but are not great and worth rereading.
 - [https://github.com/MoscowJS/speaker#checklist-for-slides](https://github.com/MoscowJS/speaker#checklist-for-slides)
 - [https://checklist.com/presentation-checklist/](https://checklist.com/presentation-checklist/)
 - [https://www.uts.edu.au/sites/default/files/presentation_checklist_0.pdf](https://www.uts.edu.au/sites/default/files/presentation_checklist_0.pdf)
+- [https://www.lifehack.org/articles/communication/18-tips-for-killer-presentations.html](https://www.lifehack.org/articles/communication/18-tips-for-killer-presentations.html)
 
 Also based on my own experience.
