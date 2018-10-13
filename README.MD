@@ -12,7 +12,8 @@ Delivering a speech is what is supposed to happen. Slides are likely to be an us
 
 - Text should be large. Very large.
 	- Default text size is generally too small, for example in Google Slides
-- Diagrams are readable and not overcomplicated
+- Diagrams, graphs must be readable
+	- Complicated images are not readable
 - Images and other materials should be attributed
 	- attribution will typically include link, but it should be link to a page with an image, not a direct link to the image file
 	- try to find original source
