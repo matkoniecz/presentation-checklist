@@ -82,6 +82,10 @@ Delivering a speech is what is supposed to happen. Slides are likely to be an us
 - Time presentation, remember to leave time for questions
 - proper gesticulation
 	- if you really have no idea what to do with hands at start of presentation then [imitate Merkel](https://en.wikipedia.org/wiki/Merkel-Raute)
+- Repeat questions during QA session after presentation
+	- It gives you time to think about answer and people in audience can hear
+what was asked (applies in cases where whoever asks has no access to the
+microphone)
 
 # Testing presentation
 
