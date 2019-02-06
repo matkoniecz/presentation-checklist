@@ -59,6 +59,7 @@ Delivering a speech is what is supposed to happen. Slides are likely to be an us
 - Link to your website
 - Link where slides of the presentations are available
 - Summary
+- Call to action
 - Request questions
 	- Request questions after official Q&A, request questions via email
 
